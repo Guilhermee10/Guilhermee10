@@ -3,7 +3,7 @@ OI! Meu nome é Guilherme, Seja bem vindo!!
 
 - ❄ Estudante de Engenharia de software
 - ❄ Desenvolvedor backend
-- ❄ Maior Projeto Pessoal > https://github.com/Guilhermee10/RPG-narrativo
+- ❄ Maior Projeto Pessoal: https://github.com/Guilhermee10/RPG-narrativo
 - 📧 contate-me no email: guilhermealmeidagg00@gmail.com
 
 
@@ -19,4 +19,8 @@ OI! Meu nome é Guilherme, Seja bem vindo!!
   <a href = "mailto:guilhermealmeidagg00@gmai.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-santos-12a61735a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+</div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Jeanlukas1/Jeanlukas1/output/snake.svg" alt="Snake animation" />
 </div>
