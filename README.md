@@ -1,7 +1,8 @@
 OI! Meu nome é Guilherme, Seja bem vindo!!
 
 
-- ❄ Estudante de Engenharia de software
+- ❄ Engenharia de software
+- ❄ Análise e desenvolvimento de sistemas
 - ❄ Desenvolvedor backend
 - 📧 contate-me no email: guilhermealmeidagg00@gmail.com
 
