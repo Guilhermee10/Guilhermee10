@@ -3,7 +3,7 @@ OI! Meu nome é Guilherme, Seja bem vindo!!
 
 - ❄ Engenharia de software
 - ❄ Análise e desenvolvimento de sistemas
-- ❄ Desenvolvedor backend
+- ❄ Desenvolvedor backend python
 - 📧 contate-me no email: guilhermealmeidagg00@gmail.com
 
 
