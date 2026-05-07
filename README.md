@@ -20,5 +20,5 @@ OI! Meu nome é Guilherme, Seja bem vindo!!
 </div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/contrib-runner.svg" alt="GitHub contribution animation" />
+    <img src="https://raw.githubusercontent.com/Jeanlukas1/Jeanlukas1/output/snake.svg" alt="Snake animation" />
 </div>
