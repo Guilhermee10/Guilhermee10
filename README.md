@@ -109,8 +109,3 @@ Cardápio digital feito como freelance para um cliente real. Os clientes usam to
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<!-- Animação da cobrinha: só aparece depois de configurar o workflow (veja as instruções) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Guilhermee10/Guilhermee10/output/github-contribution-grid-snake-dark.svg" />
-</p>
